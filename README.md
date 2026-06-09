@@ -28,4 +28,4 @@ I transition enterprise data into production-grade infrastructure. I specialize 
 
 **📫 Let's Connect**
 *   **LinkedIn:** [linkedin.com/in/jeevak-lonare-4a315b219](https://www.linkedin.com/in/jeevak-lonare-4a315b219/)
-*   **Email:** [Your Email Address]
+*   **Email:** [lonarejeevak@gmail.com]
