@@ -12,15 +12,15 @@ I transition enterprise data into production-grade infrastructure. I specialize 
 
 **🚀 Featured Portfolio**
 
-*   🤖 **[Agent-Orchestrated MLOps Pipeline](link-here)**
+*   🤖 **[Agent-Orchestrated Sentimental Analysis]([link-here](https://github.com/jeevaklonare01/Sentimental-Analysis))**
     *   *What it is:* A production-ready sentiment analysis REST API with Docker and CI/CD.
     *   *The Edge:* Autonomously architected and deployed using Google Antigravity and Claude Code, demonstrating advanced LLM workflow orchestration.
 
-*   📈 **[Sales Forecasting & Revenue Prediction](link-here)**
+*   📈 **[Sales Forecasting & Revenue Prediction]([link-here](https://github.com/jeevaklonare01/Sales-Forecasting))**
     *   *What it is:* A time-series predictive model forecasting future sales volume based on historical transactional data.
     *   *The Edge:* Demonstrates the ability to handle temporal data, evaluate predictive accuracy metrics (RMSE/MAE), and deliver actionable revenue insights for business planning.
 
-*   👥 **[Customer 360 Analysis](link-here)**
+*   👥 **[Customer 360 Analysis]([link-here](https://github.com/jeevaklonare01/Customer-360))**
     *   *What it is:* A unified customer data model featuring cohort analysis and churn modeling.
     *   *The Edge:* Integrated disparate datasets using SQL/Python and translated complex predictive KPIs into interactive Tableau dashboards for stakeholder business intelligence.
 
